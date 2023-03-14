@@ -14,3 +14,5 @@
 <img width="200px" height="450px" src="https://github.com/Everton1766/Easy-Shopping/blob/master/assets/Esbo%C3%A7o%20via%20mobile%202%20%20-%20Copia.png?raw=true" />
 <img height="450px" width="600px" src="https://github.com/Everton1766/Easy-Shopping/blob/master/assets/Esbo%C3%A7o%20via%20mobile%20-%20Copia.png?raw=true" />
 </div>
+<br>
+<h3>Tecnologia de Site Responsivo</h3>
