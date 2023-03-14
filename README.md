@@ -10,5 +10,7 @@
 </div>
 
 <br>
-
-<img src="https://github.com/Everton1766/Easy-Shopping/blob/master/assets/Esbo%C3%A7o%20via%20mobile%20-%20Copia.png?raw=true" />
+<div>
+<img width="200px" src="https://github.com/Everton1766/Easy-Shopping/blob/master/assets/Esbo%C3%A7o%20via%20mobile%202%20%20-%20Copia.png?raw=true" />
+<img height="495px" width="800px" src="https://github.com/Everton1766/Easy-Shopping/blob/master/assets/Esbo%C3%A7o%20via%20mobile%20-%20Copia.png?raw=true" />
+</div>
